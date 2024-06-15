@@ -1,0 +1,34 @@
+
+Change Directory:                   cd 	OR	 chdir
+move  up one directory:         cd ..
+move  up to root:		           cd \
+make directory: 		           md        OR	 mkdir
+clear screen:			           cls	OR	 clear
+list files and dir: 	                   ls 	        OR 	 dir
+
+move : rename and move a dir on Windows
+mv   : rename and move a dir on Linux
+rename : rename a dir
+cp -r : copy a dir
+rm -r : remove a dir recursively
+rm -d : remove empty dir
+
+touch : create file
+echo  : write text in file and create fille
+> / >> : write / appand
+cat : read file or copy it 
+
+grep : find line in files
+
+file *                               to show all files types 
+file xyz.ab                    to show the file's type
+touch  abc.xyq           to create a file 
+any command /?      to show the usage of a command 
+Ctrl + c                          to stop any running process          
+tree /a                           to see all folders and files as a tree
+osk                                 to use a keyboard on your screen 
+tasklist                          to use the task manager and see all tasks
+ stop a process by its ID : use taskkill /F /PID <PID>
+ stop a process by its name : use taskkill /IM <process-name> /F
+
+
